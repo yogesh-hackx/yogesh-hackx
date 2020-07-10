@@ -3,7 +3,7 @@
 Hi, I'm Yogesh Bhatt, a passionate self-taught Full Stack Web developer😎, and all time learner 🤓, from India.
 
 - 🚧 Currently working on a project [Grocery-Store](https://github.com/yogesh-hackx/grocery-store-frontend)
-- 🌱 Currently learning Nodejs & Graphql on the way..
+- 🌱 Learning Nodejs & Graphql on the way..
 
 **Languages and Tools:**
 
